@@ -1,2 +1,1 @@
-# project2
-ART 3870 Project 2
+# ART 3870 - Website Redesign - Project 2 - Paya Thai Cuisine
